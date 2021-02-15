@@ -1,0 +1,19 @@
+## Interface: 90002
+## Title: Hello Monkz
+## Author: Monkz
+## Version: 0.1
+## Dependencies: HeroLib
+
+
+
+Paladin\PaladinSpells.lua
+Paladin\Retribution.lua
+Paladin\Protection.lua
+Shaman\ShamanSpells.lua
+Shaman\Enhancement.lua
+Shaman\Elemental.lua
+Monk\MonkSpells.lua
+Monk\Windwalker.lua
+Monk\Brewmaster.lua
+Main.lua
+
